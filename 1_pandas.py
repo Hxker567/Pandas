@@ -24,10 +24,10 @@ S= pd.Series ({'INDIA' : 'DELHI', 'USA' : 'WASHINGTON', 'PAKISTAN' : 'ISLAMABAD'
 #print(S)
 
 #Mathematical function
-#like - +,-,*,/,                //                        ,                                       %    
-#                        floor division                                                        modulus 
-#                 (integer part of the quotient)                                             (remainder)
-#For ex-   (2 is divided by 5 the quotient is 2.5 the integer part is 2)     (2 is divided by 5 the remainder of division is 'Modulus')
+#like - +,-,*,/,                //                                     ,                                       %    
+#                        floor division                                                                     modulus 
+#                 (integer part of the quotient)                                                          (remainder)
+#For ex-   (2 is divided by 5 the quotient is 2.5 the integer part is 2)            (2 is divided by 5 the remainder of division is 'Modulus')
 
 S = pd.Series (1 , index = (0,1,2,3))
 #print(S)
